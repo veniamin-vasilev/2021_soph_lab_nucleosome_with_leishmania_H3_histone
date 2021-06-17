@@ -5,6 +5,6 @@
 
 ### Ссылки на базы данных:
   <ul>
-    <li> Ген, кодирующий H3 Leishmania(ncbi): [LMJF_10_0870](https://www.ncbi.nlm.nih.gov/gene/?term=LMJF_10_0870)</li>
-    <li> Uniprot ID: [Q4QHB5](https://www.uniprot.org/uniprot/Q4QHB5)</li>
-    <li> Нуклеосома с встроенным H3 Leishmania: [6KXV](https://www.rcsb.org/structure/6KXV)</li>
+    <li> Ген, кодирующий H3 Leishmania(ncbi): [LMJF_10_0870](https://www.ncbi.nlm.nih.gov/gene/?term=LMJF_10_0870)<br>
+    <li> Uniprot ID: [Q4QHB5](https://www.uniprot.org/uniprot/Q4QHB5)<br>
+    <li> Нуклеосома с встроенным H3 Leishmania: [6KXV](https://www.rcsb.org/structure/6KXV)<br>
